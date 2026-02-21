@@ -1,0 +1,5 @@
+{
+  "name": "RubricGuard AI",
+  "description": "A web-based, LMS-integrated grading assistant to validate rubric score justifications in real time and provide live consistency analytics.",
+  "requestFramePermissions": []
+}
